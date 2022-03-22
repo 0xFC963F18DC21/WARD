@@ -1,6 +1,6 @@
 # WARD
 
-**W**ACC **As** a **R**acket **D**SL.
+**W**ACC **A**s a **R**acket **D**SL.
 
 ## Why?
 
