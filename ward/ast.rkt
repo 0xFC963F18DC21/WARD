@@ -29,7 +29,7 @@
 (t-struct un- unOp ())
 (t-struct unLen unOp ())
 (t-struct unOrd unOp ())
-(t-struct unChar unOp ())
+(t-struct unChr unOp ())
 
 ; Binary operators
 (t-struct bin+ binOp ())
