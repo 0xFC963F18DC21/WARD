@@ -1,5 +1,8 @@
 #lang racket
 
+; --- Root AST Node ---
+(t-struct astNode ())
+
 ; Macro for quickly defining transparent structures.
 (define-syntax-rule (t-struct forms ...)
   (struct forms ... #:transparent))

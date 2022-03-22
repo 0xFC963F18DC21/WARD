@@ -2,9 +2,6 @@
 
 (require "util.rkt")
 
-; --- Root AST Node --
-(t-struct astNode ())
-
 ; --- Expressions ---
 (t-struct expression astNode ())
 
